@@ -18,7 +18,15 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="SHYCD_Building.svg">
   <defs
-     id="defs115" />
+     id="defs115">
+    <ellipse
+       style="opacity:1;fill:#2b0000;fill-opacity:1;stroke:#02b0f4;stroke-width:0.2972759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1585-4-5"
+       cx="311.2066"
+       cy="152.67561"
+       rx="64.942062"
+       ry="65.722702" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="427.48663"
-     inkscape:cy="908.24581"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="473.84325"
+     inkscape:cy="804.96005"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +71,7 @@
        width="185.89334"
        style="fill:#02b0f4;fill-opacity:1" />
     <circle
-       style="opacity:0.109;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#02b0f4;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#02b0f4;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6691"
        cx="105.99383"
        cy="130.7308"
@@ -172,7 +180,7 @@
            height="289.82013"
            x="160"
            y="750.69952" /></flowRegion><flowPara
-         id="flowPara4586"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4586" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4588"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -182,5 +190,41 @@
            height="72"
            x="124"
            y="988.51971" /></flowRegion><flowPara
-         id="flowPara4594"></flowPara></flowRoot>  </g>
+         id="flowPara4594" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.3296423px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28324106"
+       x="65.287506"
+       y="20.178722"
+       id="text4828-9"
+       transform="scale(0.93412775,1.0705174)"><tspan
+         sodipodi:role="line"
+         id="tspan4826-20"
+         x="65.287506"
+         y="20.178722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.90397644px;font-family:TypeWrong;-inkscape-font-specification:TypeWrong;stroke-width:0.28324106">S.H.Y.C.D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.3296423px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28324106"
+       id="text4828-7"><textPath
+         xlink:href="#path1585-4"
+         id="textPath1975"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.90397644px;font-family:TypeWrong;-inkscape-font-specification:TypeWrong;stroke-width:0.28324106"
+   id="tspan4826-8">SHYCD</tspan></textPath></text>
+    <ellipse
+       style="opacity:1;fill:#2b0000;fill-opacity:1;stroke:#02b0f4;stroke-width:0.2972759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1585-4"
+       cx="311.2066"
+       cy="152.67561"
+       rx="64.942062"
+       ry="65.722702" />
+    <text
+       transform="rotate(-126.30148,202.43639,192.57)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.3296423px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28324106"
+       id="text4828-7-0"><textPath
+         xlink:href="#path1585-4-5"
+         id="textPath1975-3"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.90397644px;font-family:TypeWrong;-inkscape-font-specification:TypeWrong;stroke-width:0.28324106"
+   id="tspan4826-8-6">SHYCD</tspan></textPath></text>
+  </g>
 </svg>
