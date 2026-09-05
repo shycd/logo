@@ -1,0 +1,21 @@
+# Python dependencies of the build scripts in dev/ (this repository is not a Python package).
+#
+#   uv sync && uv run dev/regenerate.sh
+# or
+#   python -m venv .venv && .venv/bin/pip install --group dev && PYTHON=.venv/bin/python dev/regenerate.sh
+[project]
+name = "shycd-logo"
+version = "2026.9"
+description = "SHYCD logo: sources and the scripts that regenerate SHYCD.svg from dev/SHYCD_editable.svg"
+requires-python = ">=3.10"
+
+[dependency-groups]
+dev = [
+    "lxml>=5",
+    "numpy>=1.24",
+    "shapely>=2.0",
+    "scour>=0.38",
+]
+
+[tool.uv]
+package = false

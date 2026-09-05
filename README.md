@@ -1,27 +1,33 @@
-# SHYCD's Logo
-- All files are being edited with Inkscape on Ubuntu 18.04.2
+# SHYCD logo
 
-Rationale: I wanna vectorize the logo, which was made in 2011 and is in this repository under the name shycd_logo_2011.jpg
-18-7-2019: Vectorization finished.
+<p align="center">
+  <img src="SHYCD.svg" width="320" alt="SHYCD logo">
+</p>
 
-## History & Symbolism:
+Vector logo of SHYCD, a community of [hackers](http://www.catb.org/jargon/html/H/hacker.html), in the original sense of the word, focused on projects with a positive social impact. SHYCD was founded on January 24, 2011 in Dolores, Uruguay.
 
-SHYCD's logo is composed with the following elements.
-Glider (skyblue):
-https://en.wikipedia.org/wiki/Glider_(Conway%27s_Life)
-Why the glider?: http://www.catb.org/hacker-emblem/faqs.html
+## The emblem
 
-Laurel wreath (green):
-https://en.wikipedia.org/wiki/Laurel_wreath
+- **Glider.** The glider from Conway's Game of Life, proposed by Eric S. Raymond as the [hacker emblem](http://www.catb.org/hacker-emblem/faqs.html). Sky blue, like the outer ring.
+- **Laurel wreath.** Green.
+- **Aureola.** Light yellow, behind the glider. Chosen for aesthetic reasons and as a crown.
+- **Wordmark.** "S.H.Y.C.D" in TypeWrong, a typewriter face, in yellow.
 
-Aureola (light yellow):
-https://en.wikipedia.org/wiki/Aureola
-Why the aureola? For aesthetic reasons and representing a "crown".
+The logo was drawn in 2011, reusing elements of a 2010 banner and taking cues from the activist emblems of the time. It was vectorized in 2019.
 
-What is our inspiration?
-Our logo is inspired on Anonymous logo and it takes elements of a prior banner made by me back in 2010.
-We made this in sympathy with what we seen in that moment was the activists activity.
+## Files
 
-What is SHYCD?
-A hacking community with a focus on projects that can make a positive social impact.
-Was founded on January 24, 2011 in Dolores, Uruguay.
+- `SHYCD.svg`: the logo. Plain SVG, every element outlined, page cropped to the artwork.
+- `SHYCD.png`: 1024 × 1024, transparent background.
+- `SHYCD_white_background.png`: the same on white.
+- `palette.gpl`: the colors used, as a GIMP palette that Inkscape and GIMP can load.
+- `dev/`: the editable Inkscape source and the build scripts. See [`dev/README.md`](dev/README.md).
+- `archive/`: the original 2011 and 2012 raster logos and the construction files of the 2019 vectorization.
+
+## License
+
+Copyright © 2011 SHYCD, Carlos Andrés Planchón Prestes.
+
+The logo artwork in this repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). See [LICENSE](LICENSE).
+
+The logo identifies SHYCD. You may reproduce it to refer to SHYCD, but not in a way that suggests affiliation with or endorsement by SHYCD, or to identify another project.
