@@ -30,4 +30,4 @@ Copyright © 2011 SHYCD, Carlos Andrés Planchón Prestes.
 
 The logo artwork in this repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). See [LICENSE](LICENSE).
 
-The logo identifies SHYCD. You may reproduce it to refer to SHYCD, but not in a way that suggests affiliation with or endorsement by SHYCD, or to identify another project.
+The logo identifies SHYCD. The license above covers the copyright in the artwork only: trademark rights in the SHYCD name and logo are not licensed, and nothing in it permits suggesting affiliation with, sponsorship or endorsement by SHYCD (sections 2(b)(2) and 2(a)(6) of the license). You may reproduce the logo to refer to SHYCD. Using it to identify another project or organization is not covered by this license.
